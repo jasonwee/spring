@@ -1,0 +1,17 @@
+https://spring.io/guides/gs/rest-service/#scratch
+
+
+
+to run
+./gradlew bootRun
+
+OR
+
+gradle build
+java -jar build/libs/gs-rest-service-0.1.0.jar
+
+
+after app started
+check
+http://localhost:8080/greeting
+http://localhost:8080/greeting?name=jason
