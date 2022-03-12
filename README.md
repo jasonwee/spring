@@ -77,3 +77,16 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/guides-with-vscode/
 
 
+# Topical Guides
+- [ ] https://spring.io/guides/topicals/spring-security-architecture/
+- [ ] https://spring.io/guides/topicals/spring-boot-docker/
+- [ ] https://spring.io/guides/topicals/spring-on-kubernetes/
+
+# Tutorials
+- [ ] https://spring.io/guides/tutorials/rest/
+- [ ] https://spring.io/guides/tutorials/react-and-spring-data-rest/
+- [ ] https://spring.io/guides/tutorials/spring-boot-kotlin/
+- [ ] https://spring.io/guides/tutorials/metrics-and-tracing/
+- [ ] https://spring.io/guides/tutorials/spring-security-and-angular-js/
+- [ ] https://spring.io/guides/tutorials/spring-boot-oauth2/
+- [ ] https://spring.io/guides/tutorials/spring-webflux-kotlin-rsocket/
