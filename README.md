@@ -7,7 +7,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 # getting started guide
 - [x] https://spring.io/guides/gs/rest-service/
 - [x] https://spring.io/guides/gs/consuming-rest/
-- [ ] https://spring.io/guides/gs/maven/
+- [x] https://spring.io/guides/gs/maven/
 - [ ] https://spring.io/guides/gs/uploading-files/
 - [ ] https://spring.io/guides/gs/messaging-redis/
 - [ ] https://spring.io/guides/gs/accessing-data-neo4j/
