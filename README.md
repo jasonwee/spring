@@ -13,7 +13,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/accessing-data-neo4j/
 - [x] https://spring.io/guides/gs/actuator-service/
 - [x] https://spring.io/guides/gs/batch-processing/
-- [ ] https://spring.io/guides/gs/rest-hateoas/
+- [x] https://spring.io/guides/gs/rest-hateoas/
 - [ ] https://spring.io/guides/gs/integration/
 - [ ] https://spring.io/guides/gs/managing-transactions/
 - [ ] https://spring.io/guides/gs/accessing-data-mongodb/
