@@ -15,7 +15,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/batch-processing/
 - [x] https://spring.io/guides/gs/rest-hateoas/
 - [x] https://spring.io/guides/gs/integration/                   xml 
-- [ ] https://spring.io/guides/gs/managing-transactions/
+- [x] https://spring.io/guides/gs/managing-transactions/         jdbc transaction h2-db jdbctemplate
 - [ ] https://spring.io/guides/gs/accessing-data-mongodb/
 - [ ] https://spring.io/guides/gs/convert-jar-to-war/
 - [ ] https://spring.io/guides/gs/handling-form-submission/
