@@ -16,7 +16,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/rest-hateoas/
 - [x] https://spring.io/guides/gs/integration/                   xml 
 - [x] https://spring.io/guides/gs/managing-transactions/         jdbc transaction h2-db jdbctemplate
-- [ ] https://spring.io/guides/gs/accessing-data-mongodb/
+- [x] https://spring.io/guides/gs/accessing-data-mongodb/        mongodb 
 - [ ] https://spring.io/guides/gs/convert-jar-to-war/
 - [ ] https://spring.io/guides/gs/handling-form-submission/
 - [ ] https://spring.io/guides/gs/messaging-stomp-websocket/
