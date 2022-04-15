@@ -22,7 +22,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/messaging-stomp-websocket/     stomp websocket html js 
 - [x] https://spring.io/guides/gs/consuming-rest-angularjs/
 - [x] https://spring.io/guides/gs/rest-service-cors/
-- [ ] https://spring.io/guides/gs/accessing-data-rest/
+- [x] https://spring.io/guides/gs/accessing-data-rest/
 - [ ] https://spring.io/guides/gs/accessing-mongodb-data-rest/
 - [ ] https://spring.io/guides/gs/producing-web-service/
 - [ ] https://spring.io/guides/gs/sts-cloud-foundry-deployment/
@@ -43,7 +43,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
      
 - [ ] https://spring.io/guides/gs/scheduling-tasks/
 - [ ] https://spring.io/guides/gs/gradle/
-- [ ] https://spring.io/guides/gs/relational-data-access/
+- [x] https://spring.io/guides/gs/relational-data-access/
 - [ ] https://spring.io/guides/gs/authenticating-ldap/
 - [ ] https://spring.io/guides/gs/messaging-rabbitmq/
 - [ ] https://spring.io/guides/gs/validating-form-input/
