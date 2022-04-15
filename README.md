@@ -21,7 +21,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/handling-form-submission/      html form thymeleaf
 - [x] https://spring.io/guides/gs/messaging-stomp-websocket/     stomp websocket html js 
 - [x] https://spring.io/guides/gs/consuming-rest-angularjs/
-- [ ] https://spring.io/guides/gs/rest-service-cors/
+- [x] https://spring.io/guides/gs/rest-service-cors/
 - [ ] https://spring.io/guides/gs/accessing-data-rest/
 - [ ] https://spring.io/guides/gs/accessing-mongodb-data-rest/
 - [ ] https://spring.io/guides/gs/producing-web-service/
