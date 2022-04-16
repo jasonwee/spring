@@ -29,7 +29,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/intellij-idea/
 - [ ] https://spring.io/guides/gs/service-registration-and-discovery/
 - [ ] https://spring.io/guides/gs/routing-and-filtering/
-- [ ] https://spring.io/guides/gs/accessing-data-mysql/
+- [x] https://spring.io/guides/gs/accessing-data-mysql/
 - [ ] https://spring.io/guides/gs/testing-restdocs/
 - [ ] https://spring.io/guides/gs/reactive-rest-service/
 - [ ] https://spring.io/guides/gs/accessing-vault/
