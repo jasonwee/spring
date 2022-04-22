@@ -24,7 +24,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/rest-service-cors/
 - [x] https://spring.io/guides/gs/accessing-data-rest/
 - [x] https://spring.io/guides/gs/accessing-mongodb-data-rest/
-- [ ] https://spring.io/guides/gs/producing-web-service/
+- [x] https://spring.io/guides/gs/producing-web-service/
 - [ ] https://spring.io/guides/gs/sts-cloud-foundry-deployment/
 - [ ] https://spring.io/guides/gs/intellij-idea/
 - [ ] https://spring.io/guides/gs/service-registration-and-discovery/
