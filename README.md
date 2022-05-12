@@ -31,7 +31,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/routing-and-filtering/
 - [x] https://spring.io/guides/gs/accessing-data-mysql/
 - [ ] https://spring.io/guides/gs/testing-restdocs/
-- [ ] https://spring.io/guides/gs/reactive-rest-service/
+- [x] https://spring.io/guides/gs/reactive-rest-service/
 - [ ] https://spring.io/guides/gs/accessing-vault/
 - [ ] https://spring.io/guides/gs/spring-data-reactive-redis/
 - [ ] https://spring.io/guides/gs/gateway/
