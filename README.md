@@ -51,7 +51,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/securing-web/
 - [ ] https://spring.io/guides/gs/accessing-data-gemfire/
 - [ ] https://spring.io/guides/gs/caching-gemfire/
-- [x] https://spring.io/guides/gs/accessing-data-jpa/
+- [x] https://spring.io/guides/gs/accessing-data-jpa/           jpa h2 crudrepository CommandLineRunner 
 - [ ] https://spring.io/guides/gs/serving-web-content/
 - [ ] https://spring.io/guides/gs/async-method/
 - [ ] https://spring.io/guides/gs/spring-boot/
