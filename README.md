@@ -31,7 +31,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/routing-and-filtering/
 - [x] https://spring.io/guides/gs/accessing-data-mysql/
 - [ ] https://spring.io/guides/gs/testing-restdocs/
-- [x] https://spring.io/guides/gs/reactive-rest-service/
+- [x] https://spring.io/guides/gs/reactive-rest-service/         mono RouterFunction reactor
 - [ ] https://spring.io/guides/gs/accessing-vault/
 - [ ] https://spring.io/guides/gs/spring-data-reactive-redis/
 - [ ] https://spring.io/guides/gs/gateway/
@@ -51,7 +51,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/securing-web/
 - [ ] https://spring.io/guides/gs/accessing-data-gemfire/
 - [ ] https://spring.io/guides/gs/caching-gemfire/
-- [ ] https://spring.io/guides/gs/accessing-data-jpa/
+- [x] https://spring.io/guides/gs/accessing-data-jpa/
 - [ ] https://spring.io/guides/gs/serving-web-content/
 - [ ] https://spring.io/guides/gs/async-method/
 - [ ] https://spring.io/guides/gs/spring-boot/
