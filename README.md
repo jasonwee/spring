@@ -83,7 +83,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/topicals/spring-on-kubernetes/
 
 # Tutorials
-- [ ] https://spring.io/guides/tutorials/rest/
+- [x] https://spring.io/guides/tutorials/rest/
 - [ ] https://spring.io/guides/tutorials/react-and-spring-data-rest/
 - [ ] https://spring.io/guides/tutorials/spring-boot-kotlin/
 - [ ] https://spring.io/guides/tutorials/metrics-and-tracing/
