@@ -64,7 +64,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/spring-boot-docker/
 - [ ] https://spring.io/guides/gs/crud-with-vaadin/
 - [ ] https://spring.io/guides/gs/centralized-configuration/
-- [ ] https://spring.io/guides/gs/testing-web/
+- [x] https://spring.io/guides/gs/testing-web/                   test service mockmvc mockbean
 - [ ] https://spring.io/guides/gs/multi-module/
 - [ ] https://spring.io/guides/gs/messaging-gcp-pubsub/
 - [ ] https://spring.io/guides/gs/contract-rest/
