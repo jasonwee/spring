@@ -54,7 +54,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/accessing-data-jpa/           jpa h2 crudrepository CommandLineRunner 
 - [ ] https://spring.io/guides/gs/serving-web-content/
 - [ ] https://spring.io/guides/gs/async-method/
-- [ ] https://spring.io/guides/gs/spring-boot/
+- [x] https://spring.io/guides/gs/spring-boot/                  mockmvc rest
 - [ ] https://spring.io/guides/gs/sts/
 - [ ] https://spring.io/guides/gs/consuming-rest-jquery/
 - [ ] https://spring.io/guides/gs/consuming-web-service/
