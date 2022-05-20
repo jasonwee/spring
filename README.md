@@ -30,7 +30,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/service-registration-and-discovery/
 - [ ] https://spring.io/guides/gs/routing-and-filtering/
 - [x] https://spring.io/guides/gs/accessing-data-mysql/
-- [ ] https://spring.io/guides/gs/testing-restdocs/
+- [x] https://spring.io/guides/gs/testing-restdocs/              restdoc asciidoc test mockmvc
 - [x] https://spring.io/guides/gs/reactive-rest-service/         mono RouterFunction reactor
 - [ ] https://spring.io/guides/gs/accessing-vault/
 - [ ] https://spring.io/guides/gs/spring-data-reactive-redis/
