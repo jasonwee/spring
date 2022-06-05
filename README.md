@@ -65,7 +65,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/crud-with-vaadin/
 - [ ] https://spring.io/guides/gs/centralized-configuration/
 - [x] https://spring.io/guides/gs/testing-web/                   test service mockmvc mockbean
-- [ ] https://spring.io/guides/gs/multi-module/
+- [x] https://spring.io/guides/gs/multi-module/                  module pom gradle
 - [ ] https://spring.io/guides/gs/messaging-gcp-pubsub/
 - [ ] https://spring.io/guides/gs/contract-rest/
 - [ ] https://spring.io/guides/gs/vault-config/
