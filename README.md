@@ -61,7 +61,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/accessing-neo4j-data-rest/
 - [ ] https://spring.io/guides/gs/accessing-gemfire-data-rest/
 - [ ] https://spring.io/guides/gs/caching/
-- [ ] https://spring.io/guides/gs/spring-boot-docker/
+- [x] https://spring.io/guides/gs/spring-boot-docker/
 - [ ] https://spring.io/guides/gs/crud-with-vaadin/
 - [ ] https://spring.io/guides/gs/centralized-configuration/
 - [x] https://spring.io/guides/gs/testing-web/                   test service mockmvc mockbean
