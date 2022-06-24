@@ -86,7 +86,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/tutorials/rest/
 - [ ] https://spring.io/guides/tutorials/react-and-spring-data-rest/    unable to complete, see README.md for more detail
 - [ ] https://spring.io/guides/tutorials/spring-boot-kotlin/
-- [ ] https://spring.io/guides/tutorials/metrics-and-tracing/
+- [x] https://spring.io/guides/tutorials/metrics-and-tracing/
 - [ ] https://spring.io/guides/tutorials/spring-security-and-angular-js/
 - [ ] https://spring.io/guides/tutorials/spring-boot-oauth2/
 - [ ] https://spring.io/guides/tutorials/spring-webflux-kotlin-rsocket/
