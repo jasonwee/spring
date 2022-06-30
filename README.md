@@ -79,7 +79,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 
 # Topical Guides
 - [ ] https://spring.io/guides/topicals/spring-security-architecture/
-- [ ] https://spring.io/guides/topicals/spring-boot-docker/
+- [x] https://spring.io/guides/topicals/spring-boot-docker/
 - [ ] https://spring.io/guides/topicals/spring-on-kubernetes/
 
 # Tutorials

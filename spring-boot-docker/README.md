@@ -1,4 +1,5 @@
 https://spring.io/guides/topicals/spring-boot-docker
+https://spring.io/guides/gs/spring-boot-docker/
 
 
 this has no code, it is on how to use docker to package springboot app
