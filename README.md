@@ -48,7 +48,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/messaging-rabbitmq/
 - [x] https://spring.io/guides/gs/validating-form-input/
 - [ ] https://spring.io/guides/gs/messaging-jms/
-- [ ] https://spring.io/guides/gs/securing-web/
+- [x] https://spring.io/guides/gs/securing-web/
 - [ ] https://spring.io/guides/gs/accessing-data-gemfire/
 - [ ] https://spring.io/guides/gs/caching-gemfire/
 - [x] https://spring.io/guides/gs/accessing-data-jpa/           jpa h2 crudrepository CommandLineRunner 
