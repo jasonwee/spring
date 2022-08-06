@@ -26,7 +26,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/accessing-mongodb-data-rest/
 - [x] https://spring.io/guides/gs/producing-web-service/
 - [ ] https://spring.io/guides/gs/sts-cloud-foundry-deployment/
-- [ ] https://spring.io/guides/gs/intellij-idea/
+- [x] https://spring.io/guides/gs/intellij-idea/
 - [x] https://spring.io/guides/gs/service-registration-and-discovery/ eureka
 - [ ] https://spring.io/guides/gs/routing-and-filtering/
 - [x] https://spring.io/guides/gs/accessing-data-mysql/
