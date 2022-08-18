@@ -32,7 +32,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/accessing-data-mysql/
 - [x] https://spring.io/guides/gs/testing-restdocs/              restdoc asciidoc test mockmvc
 - [x] https://spring.io/guides/gs/reactive-rest-service/         mono RouterFunction reactor
-- [ ] https://spring.io/guides/gs/accessing-vault/
+- [x] https://spring.io/guides/gs/accessing-vault/               vault
 - [ ] https://spring.io/guides/gs/spring-data-reactive-redis/
 - [ ] https://spring.io/guides/gs/gateway/
 - [ ] https://spring.io/guides/gs/spring-cloud-stream/
