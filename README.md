@@ -34,7 +34,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/reactive-rest-service/         mono RouterFunction reactor
 - [x] https://spring.io/guides/gs/accessing-vault/               vault
 - [x] https://spring.io/guides/gs/spring-data-reactive-redis/
-- [ ] https://spring.io/guides/gs/gateway/
+- [x] https://spring.io/guides/gs/gateway/
 - [ ] https://spring.io/guides/gs/spring-cloud-stream/
 - [ ] https://spring.io/guides/gs/spring-cloud-task/
 - [ ] https://spring.io/guides/gs/accessing-data-r2dbc/
