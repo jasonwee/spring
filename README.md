@@ -36,7 +36,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/spring-data-reactive-redis/
 - [x] https://spring.io/guides/gs/gateway/
 - [ ] https://spring.io/guides/gs/spring-cloud-stream/
-- [ ] https://spring.io/guides/gs/spring-cloud-task/
+- [x] https://spring.io/guides/gs/spring-cloud-task/
 - [ ] https://spring.io/guides/gs/accessing-data-r2dbc/
 - [ ] https://spring.io/guides/gs/tanzu-observability/
 - [ ] https://spring.io/guides/gs/accessing-data-cassandra/
