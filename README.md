@@ -44,7 +44,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [ ] https://spring.io/guides/gs/scheduling-tasks/
 - [ ] https://spring.io/guides/gs/gradle/
 - [x] https://spring.io/guides/gs/relational-data-access/
-- [ ] https://spring.io/guides/gs/authenticating-ldap/
+- [x] https://spring.io/guides/gs/authenticating-ldap/
 - [ ] https://spring.io/guides/gs/messaging-rabbitmq/
 - [x] https://spring.io/guides/gs/validating-form-input/
 - [ ] https://spring.io/guides/gs/messaging-jms/
