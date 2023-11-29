@@ -39,7 +39,7 @@ export JAVA_HOME=/usr/lib/jvm/jdk-17/
 - [x] https://spring.io/guides/gs/spring-cloud-task/
 - [ ] https://spring.io/guides/gs/accessing-data-r2dbc/
 - [ ] https://spring.io/guides/gs/tanzu-observability/
-- [ ] https://spring.io/guides/gs/accessing-data-cassandra/
+- [x] https://spring.io/guides/gs/accessing-data-cassandra/     cassandra crud
      
 - [ ] https://spring.io/guides/gs/scheduling-tasks/
 - [ ] https://spring.io/guides/gs/gradle/
